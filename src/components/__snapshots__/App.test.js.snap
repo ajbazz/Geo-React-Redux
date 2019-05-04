@@ -1,0 +1,101 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`Feature component it matches the snapshot 1`] = `
+<div
+  className="sc-dnqmqq hUMssh"
+>
+  <div
+    className="sc-gZMcBi sc-gqjmRU eZHFaU"
+  >
+    <span>
+      ★
+    </span>
+    <span>
+      ★
+    </span>
+    <span>
+      ★
+    </span>
+    <span>
+      ★
+    </span>
+    <span>
+      ★
+    </span>
+  </div>
+  <div
+    className="sc-gZMcBi jKXrHx"
+  >
+    <span>
+      ★
+    </span>
+    <span>
+      ★
+    </span>
+    <span>
+      ★
+    </span>
+    <span>
+      ★
+    </span>
+    <span>
+      ★
+    </span>
+    <span
+      className="sc-VigVT gKVEUn"
+    >
+      0
+    </span>
+  </div>
+</div>
+`;
+
+exports[`Rating component it matches the snapshot 1`] = `
+<div
+  className="sc-dnqmqq hUMssh"
+>
+  <div
+    className="sc-gZMcBi sc-gqjmRU eZHFaU"
+  >
+    <span>
+      ★
+    </span>
+    <span>
+      ★
+    </span>
+    <span>
+      ★
+    </span>
+    <span>
+      ★
+    </span>
+    <span>
+      ★
+    </span>
+  </div>
+  <div
+    className="sc-gZMcBi jKXrHx"
+  >
+    <span>
+      ★
+    </span>
+    <span>
+      ★
+    </span>
+    <span>
+      ★
+    </span>
+    <span>
+      ★
+    </span>
+    <span>
+      ★
+    </span>
+    <span
+      className="sc-VigVT gKVEUn"
+    >
+      0
+    </span>
+  </div>
+</div>
+`;
